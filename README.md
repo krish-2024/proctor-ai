@@ -39,7 +39,7 @@ An AI-powered exam proctoring system that detects cheating using **Isolation For
 
 ### 1. Clone
 ```bash
-git clone https://github.com/krish-2024/proctorAI.git
+git clone https://github.com/krish-2024/proctor-ai.git
 cd proctorAI
 ```
 
